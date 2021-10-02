@@ -1,0 +1,1 @@
+g++ -o "/home/sjw/projects/test_10_2/bin/x64/Debug/test_10_2.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/sjw/projects/test_10_2/obj/x64/Debug/main.o

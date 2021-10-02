@@ -1,0 +1,12 @@
+﻿  正在验证源
+  正在将源远程复制到“39.105.98.201”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  main.cpp
+C:\Users\史金伟\source\Linux_Learning\test_10_2\main.cpp(9,6): warning : unused variable ‘x’ [-Wunused-variable]
+C:\Users\史金伟\source\Linux_Learning\test_10_2\main.cpp(9,6): warning :   int x = 0;
+C:\Users\史金伟\source\Linux_Learning\test_10_2\main.cpp(9,6): warning :       ^
+  正在链接对象
+  test_10_2.vcxproj -> C:\Users\史金伟\source\Linux_Learning\test_10_2\bin\x64\Debug\test_10_2.out
