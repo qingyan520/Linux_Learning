@@ -1,0 +1,2 @@
+hello ,I am dup2
+hello I am fprintf
