@@ -89,13 +89,22 @@ int main()
   //系统提供的重定向接口
   //int dup(int oldfd,int newfd)
   //dup(fd,1);
-  int fd=open("log.txt",O_WRONLY|O_CREAT,0666);
-  close(1);
-  dup2(fd,1);
-  printf("hello ,I am dup2\n");
-  fprintf(stdout,"hello I am fprintf\n");
-  close(fd);
+  //int fd=open("log.txt",O_WRONLY|O_CREAT,0666);
+  //close(1);
+  //dup2(fd,1);
+  //printf("hello ,I am dup2\n");
+  //fprintf(stdout,"hello I am fprintf\n");
+  //close(fd);
 
+  int fd=open("bite",O_RDONLY|O_CREAT,0666);
+  if(fd<0)
+  {
+    perror("open!");
+  }
+  char buf[50];
+  int ret=read(fd,buf,50);
+  printf("%s",buf);
+  
 
 
   return 0;
