@@ -1,0 +1,1 @@
+g++ -o "/home/sjw/projects/test_10_3_文件IO操作/bin/x64/Debug/test_10_3_文件IO操作.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack "/home/sjw/projects/test_10_3_文件IO操作/obj/x64/Debug/test.o"

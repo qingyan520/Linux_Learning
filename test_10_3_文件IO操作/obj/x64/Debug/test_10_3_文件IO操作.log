@@ -1,0 +1,30 @@
+﻿  正在验证源
+  正在将源远程复制到“39.105.98.201”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  test.c
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,9): warning : implicit declaration of function ‘strlen’ [-Wimplicit-function-declaration]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,9): warning :          cmd[strlen(cmd) - 1] = '\0';
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,9): warning :          ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,13): warning : incompatible implicit declaration of built-in function ‘strlen’ [enabled by default]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,13): warning :          cmd[strlen(cmd) - 1] = '\0';
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(15,13): warning :              ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,9): warning : implicit declaration of function ‘strtok’ [-Wimplicit-function-declaration]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,9): warning :          myargv[0] = strtok(cmd, " ");
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,9): warning :          ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,19): warning : assignment makes pointer from integer without a cast [enabled by default]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,19): warning :          myargv[0] = strtok(cmd, " ");
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(20,19): warning :                    ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,26): warning : assignment makes pointer from integer without a cast [enabled by default]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,26): warning :          while (myargv[i] = strtok(NULL, " "))
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,26): warning :                           ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,9): warning : suggest parentheses around assignment used as truth value [-Wparentheses]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,9): warning :          while (myargv[i] = strtok(NULL, " "))
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(21,9): warning :          ^
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(33,19): warning : unused variable ‘ret’ [-Wunused-variable]
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(33,19): warning :              pid_t ret = waitpid(id, &status, 0);
+C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\test.c(33,19): warning :                    ^
+  正在链接对象
+  test_10_3_文件IO操作.vcxproj -> C:\Users\史金伟\source\Linux_Learning\test_10_3_文件IO操作\bin\x64\Debug\test_10_3_文件IO操作.out
