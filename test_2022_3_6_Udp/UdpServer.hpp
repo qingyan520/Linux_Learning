@@ -46,6 +46,7 @@ class UdpServer{
       memset(&peer,0,sizeof(peer));
       socklen_t len=sizeof(peer);
       for(;;){
+        cout<<"hehe"<<endl;
         ssize_t size=recvfrom(sockfd,buf,sizeof(buf)-1,0,(struct sockaddr*)&peer,&len);
         if(size>0)
         {
