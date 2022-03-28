@@ -1,0 +1,67 @@
+.jian{
+    width: 1200px;height: 400px;
+    margin: auto;
+    color: rgba(0, 0, 0, 0.404);
+}
+.jian_a{
+    width: 100%;
+    background: white;
+    padding-top: 25px;
+    opacity: 0.95;
+}
+.jian .jian_1,.jian_B .jian_1{
+    font-size: 50px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.jian .jian_2,.jian_3{
+    display: inline-block;
+    float: left;
+}
+.jian .jian_2{
+    width: 800px;
+    font-size: 20px;
+    padding: 50px 50px 25px 50px;
+    box-sizing: border-box;
+}
+.jian .jian_2 p{
+    color: #000;
+}
+.jian .jian_3{
+    width: 400px;
+}
+.jian .jian_3 img{
+    width: 400px; height: 300px;
+    border-radius: 10px;
+}
+.jian_B{
+    width: 100%; height: 475px;
+    background: #ffd72f;
+    opacity: 0.95;
+}
+.jian_B .jian_b{
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+.jian_B .jian_1,.jian_B .jian_2{
+    color: white;
+}
+.jian_B .jian_2{
+    font-size: 15px;
+    padding: 0 50px;
+}
+.jian_B .jian_3 div{
+    display: inline-block;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.jian_B .jian_3 img{
+    width: 280px; height: 260px;
+    border-radius: 10px;
+}
+.jian_B .jian_3 .tu img{
+    width: 750px; height: 300px;
+}

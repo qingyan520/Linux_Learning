@@ -1,0 +1,73 @@
+.guonian{
+    width: 100%; height: 600px;
+    background: #ffffff;
+    opacity: 0.95;
+}
+.guonian .guo{
+    width: 1200px;
+    margin: 0 auto;
+}
+.guonian .guo .guonian_A{
+    padding-top: 25px;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.438);
+    text-align: center;
+}
+.guonian .guo .guonian_A p{
+    font-size: 15px;
+    padding-bottom: 25px;
+}
+.guonian_B{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.guonian_B .guonian_b1,.guonian_b2{
+    width: 300px; height: 500px;
+}
+.guonian_B .guonian_b1{
+    float: left;
+    margin-left: 50px;
+}
+.guonian_B .guonian_b2{
+    float: right;
+    margin-right: 50px;
+}
+.guonian_B img{
+    width: 240px; height: 200px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.guonian_B .guonian_b3{
+    text-align: left;
+    font-size: 20px;
+    color: #505050;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.lishi{
+    width: 100%; height: 600px;
+    background: #ffd72f;
+    opacity: 0.95;
+}
+.shi{
+    width: 1200px;
+    margin: 0 auto;
+}
+.lishi_A{
+    padding-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.404);
+}
+.lishi_1, .lishi_2, .lishi_3, .lishi_4{
+    float: left;
+    margin: 0 10px;
+    padding: 24px;
+    box-sizing: border-box;
+    height: 450px; width: 280px;
+    background: #fff0b6;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

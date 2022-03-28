@@ -1,0 +1,30 @@
+.section{
+    width: 1200px; height: 450px;
+    background: #ffffde;
+    margin: 0 auto;
+}
+.section .section_1,.section_2,.section_3{
+    margin-left: 100px;
+}
+.section .section_1{
+    font-size: 130px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    line-height: 300px;
+}
+.section .section_2{
+    font-size: 30px;
+    line-height: 100px;
+}
+.section .section_3 p{
+    font-size: 18px;
+    display: inline;
+    line-height: 50px;
+}
+.section .section_3 p:nth-of-type(1){
+    color: rgba(0, 0, 1, 0.418);
+}
+.section .section_3 p:nth-of-type(2) a{
+    text-decoration: none;
+    color: #000;
+}

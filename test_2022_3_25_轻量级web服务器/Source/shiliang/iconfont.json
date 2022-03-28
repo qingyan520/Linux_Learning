@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20654049",
+      "name": "system",
+      "font_class": "system",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "22079218",
+      "name": "对局记录",
+      "font_class": "duijujilu",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "22928247",
+      "name": "time",
+      "font_class": "time",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "25150510",
+      "name": "Scan",
+      "font_class": "Scan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}

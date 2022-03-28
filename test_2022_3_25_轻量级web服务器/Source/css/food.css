@@ -1,0 +1,143 @@
+* {
+    padding: 0;
+    margin: 0;
+    bottom: 0;
+}
+
+.food1 {
+    background-color: white;
+    width: 100%;
+    height: 950px;
+}
+
+.food11 {
+    background-color: red;
+    width: 1200px;
+    height: 170px;
+}
+
+.food111 {
+    height: 140px;
+    font-size: 60px;
+    background-color: white;
+    color: #b0b0b0;
+    line-height: 130px;
+    font-weight: 800;
+    font-family: '微软雅黑';
+}
+
+.ooo {
+    position: relative;
+    bottom: 236px;
+}
+
+.food112 {
+    height: 30px;
+    color: #b0b0b0;
+    background-color: white;
+}
+
+.food12 {
+    width: 1200px;
+    height: 700px;
+    background-color: white;
+}
+
+.food121 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    float: left;
+}
+
+.food122 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    float: left;
+}
+
+.food123 {
+    width: 287px;
+    height: 237px;
+    background-color: white;
+    float: right;
+}
+
+.food124 {
+    width: 310px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    left: 162px;
+}
+
+.food125 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    right: 447px;
+}
+
+.food126 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    right: 447px;
+}
+
+.food127 {
+    width: 304px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 474px;
+    left: 165px;
+}
+
+.food128 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 711px;
+    right: 140px;
+}
+
+.food129 {
+    width: 284px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 948px;
+    left: 459px;
+}
+
+.food120 {
+    width: 309px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 950px;
+    left: 162px;
+}
+
+.food1211 {
+    width: 286px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 1185px;
+    left: 458px;
+}
+
+.food1212 {
+    width: 307px;
+    height: 237px;
+    background-color: white;
+    position: relative;
+    bottom: 1422px;
+    right: 140px;
+}

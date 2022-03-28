@@ -1,0 +1,121 @@
+#head{
+    width: 100%; height: 720px;
+    background-image: url("../image/h1.jpg");
+    background-size: 100% 720px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    position: relative;
+}
+.head_A a{
+    text-decoration: none;
+    color: #ffd72f;
+}
+#head .head_A{
+    width: 1200px; height: 80px;
+    line-height: 80px;
+    margin: auto;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.589);
+}
+#head .head_A .head_1{
+    float: left;
+    font-size: 50px;
+    font-weight: 800;
+    
+}
+#head .head_A .head_2{
+    float: right;
+    color: #ffd72f;
+    font-weight: bold;
+}
+.head_2 .iconfont{
+    margin: 0 3px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 20px;
+    background: white;
+    border-radius: 20px;
+}
+.head_B{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+    z-index: 1000;
+}
+.head_B ul li{
+    display: inline-block;
+    margin: 0 40px;
+}
+.head_B ul li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.438);
+    font-size: 22px;
+    font-weight: 800;
+}
+.head_B ul li:hover a{
+    border-top: 2px solid #ffd72e;
+    color: #ffd30e;
+}
+.head_C{
+    width: 100%; height: 60px;
+    position: absolute;
+    bottom: 0;
+    background: #ffd72f;
+    opacity: 0.9;
+    font-size: 15px;
+    line-height: 60px;
+    text-align: right;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.head_D{
+    width: 370px; height: 225px;
+    position: absolute;
+    left: 200px;
+    bottom: 20px;
+}
+.head_D .head_1,.head_D .head_2{
+    height: 225px;width: 100%;
+    padding: 30px; box-sizing: border-box;
+}
+.head_D .head_1{
+    background: #ffd72f;
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+}
+.head_D .head_1 p:nth-of-type(1){
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+.head_D .head_1 p:nth-of-type(2){
+    font-size: 20px;
+    color: white;
+}
+
+#contain1{
+    height: 1800px;
+}
+#contain2{
+    height: 1200px;
+}
+#contain3{
+    height: 1100px;
+}
+#contain4{
+    height: 1280px;
+}
+#contain5{
+    height: 1150px;
+}
+#contain1,#contain2,#contain3,#contain4,#contain5{
+    display: none;
+    width: 100%;
+    z-index: 100;
+    position: absolute;
+    top: 130px;
+}
+#contain1:target, #contain2:target, #contain3:target, #contain4:target,#contain5:target{
+    display: block;
+    position: absolute;
+}
