@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-7/root/usr/bin/ar qc libMathFunctions.a  CMakeFiles/MathFunctions.dir/test.cpp.o
+/opt/rh/devtoolset-7/root/usr/bin/ranlib libMathFunctions.a

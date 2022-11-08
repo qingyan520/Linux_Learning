@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++      CMakeFiles/test.dir/Main.cc.o CMakeFiles/test.dir/test.pb.cc.o  -o test -rdynamic 

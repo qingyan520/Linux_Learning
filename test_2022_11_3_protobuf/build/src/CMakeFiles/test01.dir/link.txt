@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-7/root/usr/bin/c++      CMakeFiles/test01.dir/test.pb.cc.o CMakeFiles/test01.dir/Main.cc.o  -o ../../bin/test01  -L/home/sjw/projects/test_2022_11_3_protobuf/lib -rdynamic -lprotobuf -Wl,-rpath,/home/sjw/projects/test_2022_11_3_protobuf/lib 

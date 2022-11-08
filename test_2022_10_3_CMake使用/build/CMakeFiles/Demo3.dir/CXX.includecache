@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sjw/projects/test_2022_10_3_CMake使用/main.cpp
+math/test.h
+/home/sjw/projects/test_2022_10_3_CMake使用/math/test.h
+
+/home/sjw/projects/test_2022_10_3_CMake使用/math/test.h
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+

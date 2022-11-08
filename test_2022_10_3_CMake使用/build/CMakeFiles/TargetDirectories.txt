@@ -1,0 +1,6 @@
+/home/sjw/projects/test_2022_10_3_CMake使用/build/CMakeFiles/edit_cache.dir
+/home/sjw/projects/test_2022_10_3_CMake使用/build/CMakeFiles/rebuild_cache.dir
+/home/sjw/projects/test_2022_10_3_CMake使用/build/CMakeFiles/Demo3.dir
+/home/sjw/projects/test_2022_10_3_CMake使用/build/math/CMakeFiles/edit_cache.dir
+/home/sjw/projects/test_2022_10_3_CMake使用/build/math/CMakeFiles/rebuild_cache.dir
+/home/sjw/projects/test_2022_10_3_CMake使用/build/math/CMakeFiles/MathFunctions.dir
